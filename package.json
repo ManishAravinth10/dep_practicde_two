@@ -1,0 +1,26 @@
+{
+  "name": "dep_practicde_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManishAravinth10/dep_practicde_two.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ManishAravinth10/dep_practicde_two/issues"
+  },
+  "homepage": "https://github.com/ManishAravinth10/dep_practicde_two#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "dotgitignore": "^2.1.0",
+    "express": "^5.2.1"
+  }
+}
